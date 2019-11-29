@@ -1,0 +1,2 @@
+C:\Users\maksy\source\repos\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\maksy\source\repos\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
